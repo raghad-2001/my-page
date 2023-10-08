@@ -1,0 +1,11 @@
+html{background: linear-gradient(#FFCF96,#39c0c0);}
+select{background-color: #ee6969;color: #ffffff;border: 1px solid;}
+h1{color: rgb(252, 109, 109);}
+header{background-color:#fce1c1;width:auto;height: 50px;text-align: center;}
+img{width:auto;height: 300px;border: 3px solid #09ff00;}
+h2{font-family: 'Nerko One', cursive;font-family: 'Pacifico', cursive; color: #FF8080;}
+table,td,th{border: 2px solid #FF8080;}
+th,td{background-color: #fcc1c1;color: #535353;}
+a{color: #a03b3b;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+*{text-align: center;}
+footer{background-color: #FF8080;width: auto;height: 50px;text-align: center;}
